@@ -6,3 +6,4 @@ for char in string:
 print("Character frequencies:")
 for char, count in frequency.items():
     print(f"'{char}': {count}")
+    
